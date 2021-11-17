@@ -13,3 +13,6 @@
 ```javascript
 console('nb')
 ```
+![头像](1.jpg)
+
+[我的笔记](https://www.yuque.com/yuqueyonghuujv204/kb)
